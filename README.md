@@ -3,8 +3,11 @@ This project involves extracting textual data from a list of URLs and performing
 Key Features:
 
 Data Extraction: Utilized Python libraries like BeautifulSoup, Selenium, or Scrapy for efficient and accurate data extraction from web articles.
+
 Text Analysis: Implemented various NLP techniques to compute sentiment and readability metrics including Positive/Negative Score, Subjectivity, FOG Index, etc.
+
 Automated Workflow: Developed a Python script to automate the data extraction and analysis process, with outputs formatted as per the required structure.
+
 Documentation: Included detailed instructions on running the script and replicating the analysis.
 
 
